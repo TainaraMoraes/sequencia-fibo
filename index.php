@@ -5,7 +5,7 @@
         <title>Exercício-Fibonacci</title>
     </head>
     <body>
-        <form actio="calcula_sequencia_fibo.php" method="GET">
+        <form action="calcula_sequencia_fibo.php" method="GET">
             <fieldset>
                 <legend>Sequência de Fibonacci</legend>
                     <label>Insire o número desejado:</label>
